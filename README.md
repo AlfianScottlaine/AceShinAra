@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AceShinAra
+- 👋 Hi, I’m @AlfianScottlaine
 - 👀 I’m interested in anything that looks fun 
 - 🌱 I’m currently learning Web Developping
 - 💞️ I’m looking to collaborate on some project that let me do some designing and management
